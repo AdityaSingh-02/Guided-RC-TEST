@@ -1,0 +1,24 @@
+{
+  "name": "guided-rc-test",
+  "version": "0.0.1",
+  "description": "This is first test version of guided rc and code walkthrough",
+  "main": "index.js",
+  "module": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc index.ts && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaSingh-02/Guided-RC-TEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaSingh-02/Guided-RC-TEST/issues"
+  },
+  "homepage": "https://github.com/AdityaSingh-02/Guided-RC-TEST#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
