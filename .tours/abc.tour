@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "ABC",
+  "steps": [
+    {
+      "file": "GUIDED-RC/Guided-RC-TEST/ABC/BCD.js",
+      "description": "THis is the file in ABC Named as BCD.js",
+      "line": 1
+    },
+    {
+      "file": "GUIDED-RC/Guided-RC-TEST/ABC/File2.js",
+      "description": "THis is Selection",
+      "line": 1
+    },
+    {
+      "file": "GUIDED-RC/Guided-RC-TEST/ABC/File1.js",
+      "description": "Here we complete ABC TOur\r\n",
+      "line": 1
+    }
+  ]
+}
