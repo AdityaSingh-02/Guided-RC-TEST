@@ -1,0 +1,26 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Abc",
+  "steps": [
+    {
+      "file": "Guided-RC-TEST/ABC/BCD.js",
+      "description": "Here console Happens\r\n``asdj``\r\n    ",
+      "line": 1
+    },
+    {
+      "file": "Guided-RC-TEST/ABC/File1.js",
+      "description": "This consoles backend, Now lets see how server starts",
+      "line": 2
+    },
+    {
+      "file": "Guided-RC-TEST/index.ts",
+      "description": "Here we Specify Port",
+      "line": 3
+    },
+    {
+      "file": "Guided-RC-TEST/index.ts",
+      "description": "It starts the server on specified port,\r\nto starts server\r\n\r\n>> npm run start\r\n",
+      "line": 8
+    }
+  ]
+}
