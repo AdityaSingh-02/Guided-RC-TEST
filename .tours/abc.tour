@@ -1,6 +1,6 @@
 {
   "$schema": "https://aka.ms/codetour-schema",
-  "title": "Abc",
+  "title": "1 - Test",
   "steps": [
     {
       "file": "Guided-RC-TEST/ABC/BCD.js",
